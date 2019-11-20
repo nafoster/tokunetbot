@@ -16,8 +16,6 @@ $discord->on('ready', function ($discord) {
             !assign (link) (user)
         Removing an assignment from database
             !remove (link)
-        Viewing all assignments
-            !news all
         Viewing assignments from one user
             !news (user)
     
