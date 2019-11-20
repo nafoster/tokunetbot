@@ -1,0 +1,7 @@
+{
+    "name": "nicole/discordbot",
+    "description": "TokuNet Discord bot",
+    "require": {
+        "team-reflex/discord-php": "^4.0"
+    }
+}
